@@ -133,4 +133,5 @@ function applyTheme(theme) {
   border-radius: 4px;
   cursor: pointer;
 }
+
 </style>
